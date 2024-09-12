@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recyclerView5toA</string>
+    <string name="btnAdd">Agregar nuevo elemento</string>
+</resources>
+
